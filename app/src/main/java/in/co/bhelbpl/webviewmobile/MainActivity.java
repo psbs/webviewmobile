@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setJavaScriptEnabled(true);
         webSettings.setDomStorageEnabled(true);
         myWebView.setWebViewClient(new WebViewClient());
-        myWebView.loadUrl("http://www.bhelbpl.co.in/mm/");
+        myWebView.loadUrl("http://www.google.com/");
     }
 
     @Override
